@@ -8,7 +8,7 @@
   <packaging>pom</packaging>
   <version>1.0-SNAPSHOT</version>
   <name>Maven Project</name>
-  <description>Ejemplo de proyecto para curso Jenkins tsoft20 20.</description>
+  <description>Ejemplo de proyecto para curso Jenkins tsoft20 20 checkstyle.</description>
   <url>http://www.example.com</url>
 
   <properties>
